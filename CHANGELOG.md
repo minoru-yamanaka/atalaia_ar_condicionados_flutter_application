@@ -14,10 +14,10 @@ O formato deste arquivo é baseado no [Keep a Changelog](https://keepachangelog.
 ---
 ### 🗓️ Semana 1 - en andamento 
 - Criação de um Trello/Chanchelog para este projeto; -> minoru criou o Chanchelog.md 
-- Briefing;
+- Briefing; -> minoru add 
 - Levantamento de requisitos;
 - Criar a arquitetura da informação para o aplicativo (levando em consideração área administrativa acessada com login e senha e área do cliente que não precisa de login).
-- Desenvolvimento do protótipo (utilizar referências);
+- Desenvolvimento do protótipo (utilizar referências); 
 - Apresentação (slides) e ensaio de Pitch.
 
 ---
