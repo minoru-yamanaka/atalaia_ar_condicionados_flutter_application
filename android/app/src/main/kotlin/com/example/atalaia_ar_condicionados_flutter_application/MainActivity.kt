@@ -1,4 +1,4 @@
-package com.example.atalaia_ar_ondicionados_flutter_application
+package com.example.atalaia_ar_condicionados_flutter_application
 
 import io.flutter.embedding.android.FlutterActivity
 
