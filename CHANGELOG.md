@@ -17,7 +17,8 @@ O formato deste arquivo é baseado no [Keep a Changelog](https://keepachangelog.
 - Briefing; -> minoru add 
 - Levantamento de requisitos;
 - Criar a arquitetura da informação para o aplicativo (levando em consideração área administrativa acessada com login e senha e área do cliente que não precisa de login).
-- Desenvolvimento do protótipo (utilizar referências); 
+- Desenvolvimento do protótipo (utilizar referências);
+https://statics.teams.cdn.office.net/evergreen-assets/safelinks/2/atp-safelinks.html <- marcos > 
 - Apresentação (slides) e ensaio de Pitch.
 
 ---
