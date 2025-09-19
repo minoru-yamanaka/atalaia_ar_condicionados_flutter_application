@@ -18,7 +18,8 @@ O formato deste arquivo é baseado no [Keep a Changelog](https://keepachangelog.
 - Levantamento de requisitos;
 - Criar a arquitetura da informação para o aplicativo (levando em consideração área administrativa acessada com login e senha e área do cliente que não precisa de login).
 - Desenvolvimento do protótipo (utilizar referências);
-https://statics.teams.cdn.office.net/evergreen-assets/safelinks/2/atp-safelinks.html <- marcos > 
+    - https://statics.teams.cdn.office.net/evergreen-assets/safelinks/2/atp-safelinks.html -> marcos;
+    - https://github.com/minoru-yamanaka/SOS_Pinguim_Site_Climatizacao/blob/main/style.css -> minoru;
 - Apresentação (slides) e ensaio de Pitch.
 
 ---
