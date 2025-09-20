@@ -1,4 +1,5 @@
-import 'package:atalaia_ar_condicionados_flutter_application/Pages/home_page.dart';
+import 'package:atalaia_ar_condicionados_flutter_application/Pages/home_page_modelo.dart';
+import 'package:atalaia_ar_condicionados_flutter_application/Pages/login_page.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
       ),
       // home: const MyHomePage(title: 'Flutter Demo Home Page'),
       // add sua home
-      home: const MyHomePage(title: 'teste',),
+      home: const LoginPage(),
     );
   }
 }
