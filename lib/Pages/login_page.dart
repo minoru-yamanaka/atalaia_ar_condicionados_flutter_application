@@ -22,18 +22,17 @@ class LoginPage extends StatelessWidget {
               // Substitua o Icon por sua imagem.
               // Lembre-se de adicionar a imagem na pasta 'assets' e no pubspec.yaml
               // Ex: Image.asset('assets/logo.png', height: 80)
-              Icon(
-                Icons.whatshot, // Ícone de exemplo
-                size: 80,
-                // arranquei o const primaryColor = Color(0xFFF58524);
-                color: Color(0xFFF58524),
-              ),
-              Padding(
-                padding: const EdgeInsets.all(8.0),
-                child: Image.asset('image/logo.png', height: 80),
-              ),
+              Image.asset('assets/img/logo.png', height: 80),
+              const SizedBox(height: 16.0),
+              // Icon(
+              //   Icons.whatshot, // Ícone de exemplo
+              //   size: 80,
+              //   // arranquei o const primaryColor = Color(0xFFF58524);
+              //   color: Color(0xFFF58524),
+              // ),
+              const SizedBox(height: 8),
               const Text(
-                'Atalaia Ar Condicionado',
+                'DIEGO ÁQUILA teste ',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 24,
